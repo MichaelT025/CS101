@@ -25,7 +25,7 @@ Hands-on laboratory assignments focused on specific concepts.
 
 ### [Projects](./Projects)
 Larger assignments demonstrating the application of cumulative knowledge.
-- **Project 01 - 03:** Comprehensive applications involving more complex logic and data handling.
+- **Project 01 - 04:** Comprehensive applications involving more complex logic and data handling.
 
 ### [inClass](./inClass)
 Code snippets and exercises written during lectures.
